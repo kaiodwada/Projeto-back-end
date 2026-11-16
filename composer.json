@@ -1,0 +1,17 @@
+{
+    "name": "kaioa/projetoback-end",
+    "description": "Projeto back-end",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kaioa\\ProjetobackEnd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kaioadwada",
+            "email": "kaioalves_araujo@outlook.com"
+        }
+    ],
+    "require": {}
+}
